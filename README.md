@@ -14,7 +14,7 @@ After installation, download the ~500MB [resource.aud](https://huggingface.co/cd
 
 Note that the game must be played with both text and audio, as the branching dialog requires text output from the Messager.
 
-Runs with DOXBox-X and DOSBox (0.74-2 or earlier). ScummVM has an issue where loading a saved game loads with missing text boxes.
+Runs with ScummVM, DOXBox-X and the original DOSBox.
 
 ## Pipeline
 
