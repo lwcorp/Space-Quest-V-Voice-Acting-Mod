@@ -4,6 +4,9 @@ Name "Space Quest 5 Message Audio Patch"
 ; The file to write
 OutFile "sq5_message_audio_patch.exe"
 
+; Ask for UAC permissions only when actually needed
+RequestExecutionLevel highest
+
 ; The default installation directory
 InstallDir $INSTDIR
 
